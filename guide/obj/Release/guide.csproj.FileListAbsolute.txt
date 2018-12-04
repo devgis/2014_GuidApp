@@ -1,0 +1,8 @@
+G:\算法与数据结构\guide\guide\bin\Release\guide.exe
+G:\算法与数据结构\guide\guide\bin\Release\guide.pdb
+G:\算法与数据结构\guide\guide\obj\Release\ResolveAssemblyReference.cache
+G:\算法与数据结构\guide\guide\obj\Release\guide_form.Form1.resources
+G:\算法与数据结构\guide\guide\obj\Release\guide.Properties.Resources.resources
+G:\算法与数据结构\guide\guide\obj\Release\guide.csproj.GenerateResource.Cache
+G:\算法与数据结构\guide\guide\obj\Release\guide.exe
+G:\算法与数据结构\guide\guide\obj\Release\guide.pdb

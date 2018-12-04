@@ -1,0 +1,14 @@
+G:\算法与数据结构\guide\guide\bin\Debug\guide.exe
+G:\算法与数据结构\guide\guide\obj\Debug\guide_form.Form1.resources
+G:\算法与数据结构\guide\guide\obj\Debug\guide.Properties.Resources.resources
+G:\算法与数据结构\guide\guide\obj\Debug\guide.csproj.GenerateResource.Cache
+G:\算法与数据结构\guide\guide\obj\Debug\guide.exe
+G:\算法与数据结构\guide\guide\obj\Debug\guide.pdb
+G:\算法与数据结构\guide\guide\bin\Debug\guide.pdb
+C:\Users\亚飞\Desktop\guide\guide\obj\Debug\guide.exe
+C:\Users\亚飞\Desktop\guide\guide\obj\Debug\guide.pdb
+C:\Users\亚飞\Desktop\guide\guide\bin\Debug\guide.exe
+C:\Users\亚飞\Desktop\guide\guide\bin\Debug\guide.pdb
+C:\Users\亚飞\Desktop\guide\guide\obj\Debug\guide_form.Form1.resources
+C:\Users\亚飞\Desktop\guide\guide\obj\Debug\guide.Properties.Resources.resources
+C:\Users\亚飞\Desktop\guide\guide\obj\Debug\guide.csproj.GenerateResource.Cache
